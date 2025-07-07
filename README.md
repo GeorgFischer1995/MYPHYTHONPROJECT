@@ -1,2 +1,3 @@
 # MYPHYTHONPROJECT
-Aufbaue eines KI-Assistenten für Arztpraxen und 
+Aufbaue eines KI-Assistenten
+
